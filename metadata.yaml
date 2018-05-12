@@ -1,0 +1,28 @@
+_repo: Die-OsternachtErste-Abtheilung_40523
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schefer, Leopold
+    birthdate: 1784
+    deathdate: 1862
+    gutenberg_agent_id: '40436'
+    url: http://www.gutenberg.org/2009/agents/40436
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2012-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40523'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germany -- Fiction'
+- !lcsh 'Floods -- Fiction'
+- !lcc 'PT'
+title: Die Osternacht. Erste Abtheilung
+url: http://www.gutenberg.org/ebooks/40523
